@@ -1,0 +1,10 @@
+.formInput-container{
+    margin: 10px;
+}
+.form{
+    background-color: rgb(204, 193, 193);
+    color: black;
+    font-size: large;
+    display: inline-block;
+    
+}
